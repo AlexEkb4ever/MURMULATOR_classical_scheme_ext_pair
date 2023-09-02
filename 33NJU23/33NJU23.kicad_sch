@@ -4995,7 +4995,7 @@
     (property "Value" "BC850" (id 1) (at 164.8714 162.9922 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "LIBS:SOT-23_PLUS" (id 2) (at 165.1 163.195 0)
+    (property "Footprint" "LIBS:SOT-23_PLUS2" (id 2) (at 165.1 163.195 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" (id 3) (at 160.02 161.29 0)
@@ -6365,7 +6365,7 @@
     (property "Value" "BC850" (id 1) (at 147.0914 170.6122 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "LIBS:SOT-23_PLUS" (id 2) (at 147.32 170.815 0)
+    (property "Footprint" "LIBS:SOT-23_PLUS2" (id 2) (at 147.32 170.815 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
     (property "Datasheet" "http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657" (id 3) (at 142.24 168.91 0)
@@ -6735,10 +6735,10 @@
       (reference "JP4") (unit 1) (value "JRST") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
     (path "/e5ad4f1c-6e58-4293-bc7a-575d8112a533"
-      (reference "Q1") (unit 1) (value "BC850") (footprint "LIBS:SOT-23_PLUS")
+      (reference "Q1") (unit 1) (value "BC850") (footprint "LIBS:SOT-23_PLUS2")
     )
     (path "/3337ae61-4c2b-4233-849f-051dc653cdde"
-      (reference "Q2") (unit 1) (value "BC850") (footprint "LIBS:SOT-23_PLUS")
+      (reference "Q2") (unit 1) (value "BC850") (footprint "LIBS:SOT-23_PLUS2")
     )
     (path "/56d3bec8-62e0-4b75-8a5f-35a1fc1ba854"
       (reference "R1") (unit 1) (value "1k") (footprint "LIBS:R_0805_PLUS")

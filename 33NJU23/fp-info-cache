@@ -1,4 +1,4 @@
-20890947267298377
+20892640849278524
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58535,6 +58535,13 @@ Pico-W RPL RPTL RPi module RP2040 CYW43439 2.4GHz RF radio Wi-Fi WiFi SMD
 40
 LIBS
 SOT-23_PLUS
+SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+3
+LIBS
+SOT-23_PLUS2
 SOT, 3 Pin (https://www.jedec.org/system/files/docs/to-236h.pdf variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
 SOT TO_SOT_SMD
 0
